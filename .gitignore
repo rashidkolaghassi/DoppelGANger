@@ -1,1 +1,6 @@
 .DS_Store
+data/google/data_train.npz
+*.npz
+data/google/data_attribute_output.pkl
+data/google/data_feature_output.pkl
+data/google/format.txt
